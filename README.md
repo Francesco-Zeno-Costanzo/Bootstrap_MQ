@@ -11,7 +11,7 @@ $$
 Now choosing a basis of the energy eigenstates any operator $\mathcal{O}$ should obey the identity:
 
 $$
-\langle [ H, \mathcal{O}] \rangle = 0 \hspace{50 mm} \text{ and } \langle \mathcal{H}\mathcal{O}\rangle = E\langle \mathcal{O}\rangle
+\langle [ H, \mathcal{O}] \rangle = 0 \hspace{100 mm} \text{ and } \langle \mathcal{H}\mathcal{O}\rangle = E\langle \mathcal{O}\rangle
 $$
 
 From an accurate choos of $\mathcal{O}$ we can obtein the following relation:
