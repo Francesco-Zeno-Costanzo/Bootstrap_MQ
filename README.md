@@ -23,6 +23,8 @@ $$
 
 $$
 
+
+
  If we define a matrix: $M_{ij} = \langle x^{i+j} \rangle$ from the costrain $\langle \mathcal{O}^{\dagger} \mathcal{O} \rangle > 0$ writing $\mathcal{O} = \sum_i^{K} c_i x^i $ we have that $M$ must be positive definite.
 
 So we compute this matrix for various parameter ad chek the sign of all eigenvalues. 
