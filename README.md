@@ -18,7 +18,6 @@ From an accurate choos of $\mathcal{O}$ we can obtein the following relation:
 
 $$
 4nE \langle x^{n - 1} \rangle - 4n \langle x^{n-1} V(x) \rangle + n(n-1)(n-2)\langle x^{n - 3} \rangle - 4\langle x^{n} V^{'}(x) \rangle = 0
-
 $$
 
 
